@@ -1,0 +1,27 @@
+{
+  "name": "preact-sandpit",
+  "version": "1.0.0",
+  "description": "Preact sandpit",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glendaviesnz/preact.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/glendaviesnz/preact/issues"
+  },
+  "homepage": "https://github.com/glendaviesnz/preact#readme",
+  "dependencies": {
+    "preact": "^8.2.9"
+  },
+  "devDependencies": {
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-preact": "^1.1.0",
+    "parcel-bundler": "^1.9.3"
+  }
+}
